@@ -9,7 +9,7 @@
 
 ** However, the model performs good only upto a small length of sequence generation (normally length of 600), after that it starts repeating same words. One way to avoid this is, using an LSTM or GRU which are able to capture long term dependencies (which I will try to incorporate in future versions).
 
-[Training Loss](loss.jpg)
+![Training Loss](/loss.jpg)
 
 ** An example of generated poem (of length 500) is-
 
